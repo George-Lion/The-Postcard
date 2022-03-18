@@ -1,16 +1,17 @@
 ## The Postcard
 
-The implementation of the `<div>` tag is very important, thanks to it we can provide a structure that is easy to mold in terms of web layout.
+La implementación de la etiqueta `<div>` es muy importante, gracias a ella podemos dar una estructura fácil de moldear en cuanto a la diagramación de una web.
 
-To make this Postcard, the fundamentals of the basic structure for each HTML5 website were used, the Link tag to import CSS Rules, the use of google fonts and the use of different available selectors. To make the structure we implement containers with the `<div>` tag and applying their respective selectors to segment each area, other tags used with `<h1>` for the titles, `<p>` for the paragraphs and `<img> ` for images, then in the CSS document properties were applied such as: display, justify-content, align-item, among others.
+Para realizar esta Postcard se utilizaron los fundamentos de estructura básica para cada sitio web HTML5,  la etiqueta Link para importar Reglas CSS, uso de fuentes de google y uso de diferentes selectores disponibles. Para realizar la estructura implementamos contenedores con la etiqueta `<div>` y aplicando sus respectivos selectores para segmentar cada área, otras etiquetas utilizadas con `<h1>` para los títulos, `<p>` para los párrafos y `<img>` para las imágenes, luego en el documento CSS se aplicaron propiedades como: display, justify-content, align-item, entre otras. 
 
-Recommended websites for theme icons, images and tools:
 
-[-Google Fonts Pages](https://fonts.google.com/).
+Sitios web recomendados para iconos de temas, imágenes y herramientas:
 
-[-Fontawesome Pages](https://fontawesome.com/).
+[-Google Fonts](https://fonts.google.com/).
 
-[-Pexel Pages](https://www.pexels.com/es-es/).
+[-Fontawesome](https://fontawesome.com/).
+
+[-Pexel](https://www.pexels.com/es-es/).
 
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
