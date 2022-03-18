@@ -1,3 +1,17 @@
+## The Postcard
+
+The implementation of the `<div>` tag is very important, thanks to it we can provide a structure that is easy to mold in terms of web layout.
+
+To make this Postcard, the fundamentals of the basic structure for each HTML5 website were used, the Link tag to import CSS Rules, the use of google fonts and the use of different available selectors. To make the structure we implement containers with the `<div>` tag and applying their respective selectors to segment each area, other tags used with `<h1>` for the titles, `<p>` for the paragraphs and `<img> ` for images, then in the CSS document properties were applied such as: display, justify-content, align-item, among others.
+
+Recommended websites for theme icons, images and tools:
+
+[-Google Fonts Pages](https://fonts.google.com/).
+
+[-Fontawesome Pages](https://fontawesome.com/).
+
+[-Pexel Pages](https://www.pexels.com/es-es/).
+
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
 ¿A quién no le gustan las postales? Este es uno de tus primeros ejercicios (si no es el primero) y es divertido y relativamente fácil :)

@@ -1,0 +1,74 @@
+body {
+	background-color: black;
+}
+
+#container {
+	display: flex;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	justify-content: center;
+	background-color: black;
+}
+#contenido {
+	width: 500px;
+	height: 340px;
+	margin: auto;
+	background-color: white;
+}
+#titlebox {
+	display: flex;
+	margin-top: 20px;
+	font-family: "Courier New", Courier, monospace;
+}
+.titulo {
+	margin-left: 10px;
+}
+img {
+	width: 70px;
+	height: 70px;
+	margin-left: 200px;
+}
+#contenedor2 {
+	display: flex;
+}
+.parrafo {
+	margin-left: 10px;
+	width: 230px;
+}
+p {
+	font-size: 16px;
+	margin-top: 0px;
+	font-family: "Hubballi", cursive;
+}
+#formulario {
+	width: 250px;
+	height: 160px;
+	margin-left: 20px;
+}
+.texto {
+	width: 225px;
+	height: 24px;
+	border: none;
+	outline: none;
+	font-size: 14px;
+	font-family: "Hubballi", cursive;
+	border-bottom: solid 1px #b1b1b1;
+}
+#buttonBox {
+	display: flex;
+	width: 500px;
+	height: 70px;
+	align-items: center;
+	justify-content: center;
+}
+.boton {
+	height: 30px;
+	width: 140px;
+	font-family: "Hubballi", cursive;
+	background-color: rgb(207, 207, 207);
+}
+
+.boton:hover {
+	background: rgb(63, 177, 253);
+}
