@@ -1,3 +1,25 @@
+##The Postcard
+
+This exercise encompasses the tags learned so far about HTML
+for its structure, some of them are: the basic structure of HTML,
+control in `<div>`, `<h1>`, `<p>`, `<input>`, etc. tags.
+
+For the creation of the Postcard, a parent container was used, which has
+as children plus bins split into each of the containing boxes
+information, on the other hand, was also applied using text input
+to write the sender's data and thus be able to send the message using
+a button that ends the process.
+
+Recommended websites for theme icons, images and tools:
+
+[-Google Fonts](https://fonts.google.com/).
+
+[-Fontawesome](https://fontawesome.com/).
+
+[-Pexel](https://www.pexels.com/es-es/).
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
 Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)

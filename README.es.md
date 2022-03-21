@@ -1,9 +1,14 @@
-## The Postcard
+##The Postcard
 
-La implementación de la etiqueta `<div>` es muy importante, gracias a ella podemos dar una estructura fácil de moldear en cuanto a la diagramación de una web.
+Este ejercicio engloba las etiquetas aprendidas hasta el momento sobre HTML
+para su estructura, alguna de ellas son: la estructura básica de HTML, 
+control en las etiquetas `<div>`, `<h1>`, `<p>`, `<input>`, etc. 
 
-Para realizar esta Postcard se utilizaron los fundamentos de estructura básica para cada sitio web HTML5,  la etiqueta Link para importar Reglas CSS, uso de fuentes de google y uso de diferentes selectores disponibles. Para realizar la estructura implementamos contenedores con la etiqueta `<div>` y aplicando sus respectivos selectores para segmentar cada área, otras etiquetas utilizadas con `<h1>` para los títulos, `<p>` para los párrafos y `<img>` para las imágenes, luego en el documento CSS se aplicaron propiedades como: display, justify-content, align-item, entre otras. 
-
+Para la creación de la Postcard se utilizó un contenedor padre el cual tiene 
+como hijos más contenedores divididos en cada una de las cajas que contienen
+la información, por otro lado, también se aplicó el uso de entrada de texto
+para escribir los datos del remitente y así poder enviar el mensaje mediante
+un botón que finaliza el proceso.
 
 Sitios web recomendados para iconos de temas, imágenes y herramientas:
 
@@ -12,6 +17,8 @@ Sitios web recomendados para iconos de temas, imágenes y herramientas:
 [-Fontawesome](https://fontawesome.com/).
 
 [-Pexel](https://www.pexels.com/es-es/).
+
+-------------------------------------------------------------------------------------------------------
 
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
